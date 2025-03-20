@@ -193,7 +193,7 @@ img{
 .home__title{
     align-self: flex-end;
     font-size: var(--big-font-size);
-    color: var(--dark-color);
+    color: white;
     line-height: .8;
 }
 .home__title span{
@@ -528,5 +528,5 @@ color:blue;
     color: blue;
 }
 .mr{
-    color: white;
+    color: blue;
 }
